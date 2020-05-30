@@ -75,8 +75,8 @@ https://github.com/reactioncommerce/api-plugin-system-information.git \
 https://github.com/reactioncommerce/api-plugin-tags.git \
 https://github.com/reactioncommerce/api-plugin-taxes-flat-rate.git \
 https://github.com/reactioncommerce/api-plugin-taxes.git \
-https://github.com/reactioncommerce/api-plugin-translations.git
-https://github.com/ankurpata/scaling-fortnight.git \
+https://github.com/reactioncommerce/api-plugin-translations.git \
+https://github.com/ankurpata/scaling-fortnight.git
 endef
 
 # List of user defined networks that should be created.
